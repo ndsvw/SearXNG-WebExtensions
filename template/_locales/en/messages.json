@@ -1,0 +1,8 @@
+{
+    "MANIFEST_DESCRIPTION": {
+        "message": "Make SearXNG (instance {{INSTANCE.DOMAINNAME}}) the default search engine."
+    },
+    "MANIFEST_NAME": {
+        "message": "SearXNG ({{INSTANCE.DOMAINNAME}})" 
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "MANIFEST_DESCRIPTION": {
+        "message": "Mache SearXNG (Instanz {{INSTANCE.DOMAINNAME}}) zur Standard-Suchmaschine."
+    },
+    "MANIFEST_NAME": {
+        "message": "SearXNG ({{INSTANCE.DOMAINNAME}})" 
+    }
+}
