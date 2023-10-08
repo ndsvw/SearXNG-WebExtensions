@@ -1,0 +1,26 @@
+{
+    "https://searx.fmac.xyz/": {
+        "addOnUrlName": "searxng-searx-prvcy-eu"
+    },
+    "https://searx.be/": {
+        "addOnUrlName": "searxng-searx-be"
+    },
+    "https://search.mdosch.de/": {
+        "addOnUrlName": "searxng-search-mdosch-de"
+    },
+    "https://searx.prvcy.eu/": {
+        "addOnUrlName": "searxng-searx-prvcy-eu"
+    },
+    "https://searx.tuxcloud.net/": {
+        "addOnUrlName": "searxng-searx-tuxcloud-net"
+    },
+    "https://searx.ru/": {
+        "addOnUrlName": "searxng-searx-ru"
+    },
+    "https://northboot.xyz/": {
+        "addOnUrlName": "searxng-northboot-xyz"
+    },
+    "https://searx.divided-by-zero.eu/": {
+        "addOnUrlName": "searxng-divided-by-zero-eu"
+    }
+}
