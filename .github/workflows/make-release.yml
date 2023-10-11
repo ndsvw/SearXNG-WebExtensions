@@ -1,0 +1,17 @@
+name: 'Make release'
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create all extensions
+        run: ${PWD}/create-all-extensions.sh
