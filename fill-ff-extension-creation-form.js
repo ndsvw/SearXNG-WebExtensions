@@ -675,4 +675,8 @@ For more information on this, and how to apply and follow the GNU AGPL, see
 
 document.getElementById("id_license-text").value = licenseText;
 
-// The image on the FF site must be set manually. This can be done via "Manage ..." after saving. :/
+// After that:
+// - The image on the FF site must be set manually.
+//    - This can be done via "Manage ..." after saving. :/
+// - Tags must be added manually (same page as images)
+//    - anti tracker, google, privacy, search
