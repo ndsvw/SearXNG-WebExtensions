@@ -6,6 +6,9 @@ if [ $# -ne 1 ]; then
   exit 1
 fi
 
+# Make sure, the output folder exists, no error if it does already
+mkdir -p "output"
+
 # Get the instance name from the command line argument
 instance="$1"
 instanceFolder="./output/$instance"
