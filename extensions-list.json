@@ -1,26 +1,34 @@
 {
     "https://searx.fmac.xyz/": {
-        "addOnUrlName": "searxng-searx-prvcy-eu"
+        "addOnUrlName": "searxng-searx-prvcy-eu",
+        "addOnGuid": "{48edfa11-6eef-4a94-a644-dec87df72e0e}"
     },
     "https://searx.be/": {
-        "addOnUrlName": "searxng-searx-be"
+        "addOnUrlName": "searxng-searx-be",
+        "addOnGuid": "{3726bb22-b99d-4fd7-b4b9-258d189b8fff}"
     },
     "https://search.mdosch.de/": {
-        "addOnUrlName": "searxng-search-mdosch-de"
+        "addOnUrlName": "searxng-search-mdosch-de",
+        "addOnGuid": "{624193ae-2d7d-49d3-a29e-5ba6c37c4c7e}"
     },
     "https://searx.prvcy.eu/": {
-        "addOnUrlName": "searxng-searx-prvcy-eu"
+        "addOnUrlName": "searxng-searx-prvcy-eu",
+        "addOnGuid": "{b5b32f23-1f12-4511-be89-174f4e0f4980}"
     },
     "https://searx.tuxcloud.net/": {
-        "addOnUrlName": "searxng-searx-tuxcloud-net"
+        "addOnUrlName": "searxng-searx-tuxcloud-net",
+        "addOnGuid": "{323f1640-7c7a-4f1f-83bc-1104d2f5303f}"
     },
     "https://searx.ru/": {
-        "addOnUrlName": "searxng-searx-ru"
+        "addOnUrlName": "searxng-searx-ru",
+        "addOnGuid": "{7573af88-5064-4bc2-9471-ac0b18aaed3a}"
     },
     "https://northboot.xyz/": {
-        "addOnUrlName": "searxng-northboot-xyz"
+        "addOnUrlName": "searxng-northboot-xyz",
+        "addOnGuid": "{d8c34138-459f-4449-bcf8-1286b2ba22c9}"
     },
     "https://searx.divided-by-zero.eu/": {
-        "addOnUrlName": "searxng-divided-by-zero-eu"
+        "addOnUrlName": "searxng-divided-by-zero-eu",
+        "addOnGuid": "{5bfddd8a-8ca3-43a2-95c8-d7dc0568aaeb}"
     }
 }
