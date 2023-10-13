@@ -1,6 +1,6 @@
 {
     "MANIFEST_DESCRIPTION": {
-        "message": "Mache SearXNG (Instanz {{INSTANCE.DOMAINNAME}}) zur Standard-Suchmaschine."
+        "message": "Mache SearXNG (Instanz {{INSTANCE.DOMAINNAME}}) zur Standard-Suchmaschine. SearXNG (zuvor Searx) ist eine freie Open-Source-Meta-Suchmaschine."
     },
     "MANIFEST_NAME": {
         "message": "SearXNG ({{INSTANCE.DOMAINNAME}})" 

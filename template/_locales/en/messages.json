@@ -1,6 +1,6 @@
 {
     "MANIFEST_DESCRIPTION": {
-        "message": "Make SearXNG (instance {{INSTANCE.DOMAINNAME}}) the default search engine."
+        "message": "Make SearXNG (instance {{INSTANCE.DOMAINNAME}}) the default search engine! SearXNG (previously Searx) is a free and open-source metasearch engine."
     },
     "MANIFEST_NAME": {
         "message": "SearXNG ({{INSTANCE.DOMAINNAME}})" 
