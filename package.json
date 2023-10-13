@@ -1,0 +1,15 @@
+{
+  "name": "searxng-webextensions",
+  "version": "1.0.0",
+  "description": "searxng-webextensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ndsvw",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+  "type": "module",
+  "dependencies": {
+    "publish-browser-extension": "^1.4.1"
+  }
+}
