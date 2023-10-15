@@ -1,20 +1,20 @@
 {
     "manifest_version": 2,
-    "version": "1.1",
+    "version": "1.2",
     "name": "__MSG_MANIFEST_NAME__",
     "short_name": "SearXNG",
     "author": "ndsvw",
     "default_locale": "en",
     "description": "__MSG_MANIFEST_DESCRIPTION__",
     "icons": {
-        "16": "images/searxng/searxng-wordmark.svg",
-        "128": "images/searxng/searxng-wordmark.svg"
+        "16": "images/searxng/searxng-firefox.svg",
+        "128": "images/searxng/searxng-firefox.svg"
     },
     "browser_action": {
         "default_title": "SearXNG",
         "default_icon": {
-            "16": "images/searxng/searxng-wordmark.svg",
-            "128": "images/searxng/searxng-wordmark.svg"
+            "16": "images/searxng/searxng-firefox.svg",
+            "128": "images/searxng/searxng-firefox.svg"
         }
     },
     "browser_specific_settings": {

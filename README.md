@@ -1,4 +1,4 @@
-![searXNG WebExtensions](searx-ff.png)
+<img title="SearXNG" alt="SearXNG" src="searxng-firefox.png" width="128" height="128" />
 
 ## What is this extension good for?
 
