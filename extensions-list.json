@@ -30,5 +30,57 @@
     "https://searx.divided-by-zero.eu/": {
         "addOnUrlName": "searxng-divided-by-zero-eu",
         "addOnGuid": "{5bfddd8a-8ca3-43a2-95c8-d7dc0568aaeb}"
+    },
+    "https://search.ononoki.org/": {
+        "addOnUrlName": "searxng-search-ononoki-org",
+        "addOnGuid": "{f1c79888-9cc1-48c0-a2c1-0ef961898fbc}"
+    },
+    "https://search.bus-hit.me/": {
+        "addOnUrlName": "searxng-search-bus-hit-me",
+        "addOnGuid": "{87e4e52b-2fa9-4623-8873-0f7847b7c133}"
+    },
+    "https://searx.mha.fi/": {
+        "addOnUrlName": "searxng-searx-mha-fi",
+        "addOnGuid": "{2d90c18d-f63c-41f2-9bc2-5bb1e46f9814}"
+    },
+    "https://searx.namejeff.xyz/": {
+        "addOnUrlName": "searxng-searx-namejeff-xyz",
+        "addOnGuid": "{f1a907ad-fbf7-41f0-b765-11ef9743d3a4}"
+    },
+    "https://search.rabbit-company.com/": {
+        "addOnUrlName": "searxng-rabbit-company-com",
+        "addOnGuid": "{50f8edb5-a332-4e19-b146-7057d360f2ec}"
+    },
+    "https://search.rowie.at/": {
+        "addOnUrlName": "searxng-search-rowie-at",
+        "addOnGuid": "{343aa563-ed36-40b1-aef2-00012fda4fac}"
+    },
+    "https://searx.mastodontech.de/": {
+        "addOnUrlName": "searxng-searx-mastodontech-de",
+        "addOnGuid": "{60794cf7-0fb5-42d1-8dbe-102d497e205e}"
+    },
+    "https://searx.dresden.network/": {
+        "addOnUrlName": "searxng-searx-dresden-network",
+        "addOnGuid": "{248d4418-5dfd-46e1-b3bf-11c7fe0dbf61}"
+    },
+    "https://xo.wtf/": {
+        "addOnUrlName": "searxng-xo-wtf",
+        "addOnGuid": "{eb8c457c-e155-4143-9af4-5daf6743a4b2}"
+    },
+    "https://searx.ericaftereric.top/": {
+        "addOnUrlName": "searxng-ericaftereric-top",
+        "addOnGuid": "{9aa53821-f3d3-473b-8874-1d949bb31b13}"
+    },
+    "https://searx.baczek.me/": {
+        "addOnUrlName": "searxng-searx-baczek-me",
+        "addOnGuid": "{8e21d208-470c-4b2e-a191-db65c3432080}"
+    },
+    "https://search.sapti.me/": {
+        "addOnUrlName": "searxng-search-sapti-me",
+        "addOnGuid": "{52eade7c-3823-4756-a3a7-444233f29ae1}"
+    },
+    "https://search.zzls.xyz/": {
+        "addOnUrlName": "searxng-search-zzls-xyz",
+        "addOnGuid": "{f3d74e03-6175-4ba9-8f0c-0f32f42aa7fa}"
     }
 }
