@@ -20,6 +20,19 @@ For some reliable instances (see https://searx.space/) that exist for a longer t
 - [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-searx-ru) for [searx.ru](https://searx.ru/)
 - [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-northboot-xyz) for [northboot.xyz](https://northboot.xyz/)
 - [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-divided-by-zero-eu) for [searx.divided-by-zero.eu](https://searx.divided-by-zero.eu/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-search-ononoki-org) for [search.ononoki.org](https://search.ononoki.org/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-search-bus-hit-me) for [search.bus-hit.me](https://search.bus-hit.me/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-searx-mha-fi) for [searx.mha.fi](https://searx.mha.fi/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-searx-namejeff-xyz) for [searx.namejeff.xyz](https://searx.namejeff.xyz/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-rabbit-company-com) for [search.rabbit-company.com](https://search.rabbit-company.com/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-search-rowie-at) for [search.rowie.at](https://search.rowie.at/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-searx-mastodontech-de) for [searx.mastodontech.de](https://searx.mastodontech.de/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-searx-dresden-network) for [searx.dresden.network](https://searx.dresden.network/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-xo-wtf) for [xo.wtf](https://xo.wtf/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-ericaftereric-top) for [searx.ericaftereric.top](https://searx.ericaftereric.top/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-searx-baczek-me) for [searx.baczek.me](https://searx.baczek.me/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-search-sapti-me) for [search.sapti.me](https://search.sapti.me/)
+- [Get the Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/searxng-search-zzls-xyz) for [search.zzls.xyz](https://search.zzls.xyz/)
 
 ## Is this the OFFICIAL extension for instance XY?
 
