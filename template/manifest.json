@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "version": "1.2",
+    "version": "1.3",
     "name": "__MSG_MANIFEST_NAME__",
     "short_name": "SearXNG",
     "author": "ndsvw",
@@ -12,11 +12,17 @@
     },
     "browser_action": {
         "default_title": "SearXNG",
+        "default_area": "navbar",
         "default_icon": {
             "16": "images/searxng/searxng-firefox.svg",
             "128": "images/searxng/searxng-firefox.svg"
         }
     },
+    "background": {
+        "scripts": [
+          "background.js"
+        ]
+      },
     "browser_specific_settings": {
         "gecko": {
             "strict_min_version": "79.0"

@@ -1,4 +1,4 @@
-var fs = require('fs');
+import * as fs from 'fs';
 
 const json = JSON.parse(fs.readFileSync("extensions-list.json", { encoding: 'utf8', flag: 'r' }));
 let keys = Object.keys(json);
